@@ -1,0 +1,49 @@
+let coursesJson =`[
+  {
+   "taskName": "Coding", 
+   "img": "./Images/Coding.jpg", 
+   "description": "Coding 2 hours a day", 
+   "importance": 0    
+  },{
+    "taskName": "Reading", 
+   "img": "./Images/Reading.jpg", 
+   "description": "1 hour before Sleep", 
+   "importance": 0    
+  },{
+    "taskName": "Swiming", 
+   "img": "./Images/Swimming.jpg", 
+   "description": "Once a week", 
+   "importance": 0    
+  },{
+    "taskName": "Shopping Grocery", 
+   "img": "./Images/Shopping.jpg", 
+   "description": "Twice a week", 
+   "importance": 0    
+  },{
+    "taskName": "Jogging", 
+   "img": "./Images/Jogging.jpg", 
+   "description": "Twice a week", 
+   "importance": 0    
+  },{
+    "taskName": "Saturday Fun Day", 
+   "img": "./Images/Saturday.jpg", 
+   "description": "Saturday is the fun day", 
+   "importance": 0    
+  },{
+    "taskName": "Holidays", 
+   "img": "./Images/Holidays.jpg", 
+   "description": "Summer Holidays", 
+   "importance": 0    
+  },{
+    "taskName": "Netflix and Chill", 
+   "img": "./Images/Netflix.jpg", 
+   "description": "Sunday Evening", 
+   "importance": 0    
+  },{
+    "taskName": "Camping", 
+   "img": "./Images/Sunday.png", 
+   "description": "Family Camping", 
+   "importance": 0    
+  }
+]`;
+

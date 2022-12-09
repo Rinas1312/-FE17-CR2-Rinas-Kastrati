@@ -1,0 +1,25 @@
+
+.priority-btn {
+  background-color: rgb(4, 124, 4);
+  color: aliceblue;
+  border-style: outset;
+  border-radius: 4px;
+}
+#sort{
+  height: 40px;
+  width: 200px;
+  margin-left: 310px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  background-color: rgb(3, 180, 171);
+  color: aliceblue;
+  border-color: bisque;
+  border-radius: 10px;
+}
+
+.weekplaner{
+  text-align: center;
+}
+.container {
+  margin-right: 50px;
+}
